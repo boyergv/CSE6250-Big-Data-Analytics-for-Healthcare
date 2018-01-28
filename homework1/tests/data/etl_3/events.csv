@@ -1,0 +1,56 @@
+patient_id,event_id,event_description,timestamp,value
+2293,DRUG19132909,Ciprofloxacin Hydrochloride,1995-11-17,1.0
+2293,DRUG19036781,Calcium Chloride,2007-11-18,1.0
+2293,DRUG19036781,Calcium Chloride,2007-11-19,1.0
+2293,DRUG19072153,Morphine Sulfate,2007-11-19,1.0
+2293,DIAG440649,Primary malignant neoplasm of head of pancreas,2007-11-17,1.0
+2293,DIAG433163,Deficiency of macronutrients,2007-11-17,1.0
+2293,DIAG433163,Deficiency of macronutrients,2008-09-26,1.0
+2293,DIAG435517,Acidosis,2007-11-17,1.0
+2293,DIAG441818,Hemangioma,2007-11-17,1.0
+2293,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2004-12-09,3.6
+2293,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2004-12-10,140.0
+2293,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2004-03-29,0.5
+2293,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2007-11-02,7.0
+2293,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,2007-11-02,82.0
+2293,LAB3000963,Hemoglobin [Mass/volume] in Blood,1995-09-26,13.3
+2293,LAB3026361,Erythrocytes [#/volume] in Blood,1995-09-28,4.45
+2293,LAB3010813,Leukocytes [#/volume] in Blood,2007-11-02,4.2
+2293,LAB3003785,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma,2007-11-02,4.5
+2293,LAB3024561,Albumin [Mass/volume] in Serum or Plasma,2007-11-02,3.8
+2293,LAB3004905,Lipase [Enzymatic activity/volume] in Serum or Plasma,2007-11-02,22.0
+2293,LAB3004905,Lipase [Enzymatic activity/volume] in Serum or Plasma,2007-11-04,20.0
+2293,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2010-06-02,1.4
+2293,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2010-06-03,2.4
+2293,LAB3016771,Amylase [Enzymatic activity/volume] in Serum or Plasma,2007-11-02,34.0
+1001,DRUG19132909,Ciprofloxacin Hydrochloride,2000-07-25,1.0
+1001,DRUG19036781,Calcium Chloride,2012-07-26,1.0
+1001,DRUG19036781,Calcium Chloride,2012-07-27,1.0
+1001,DRUG19036781,Calcium Chloride,2012-07-28,1.0
+1001,DRUG19036781,Calcium Chloride,2012-07-29,1.0
+1001,DRUG19036781,Calcium Chloride,2012-07-30,1.0
+1001,DRUG19072153,Morphine Sulfate,2012-07-31,1.0
+1001,DIAG440649,Primary malignant neoplasm of head of pancreas,2012-07-25,1.0
+1001,DIAG433163,Deficiency of macronutrients,2012-07-25,1.0
+1001,DIAG433163,Deficiency of macronutrients,2013-06-04,1.0
+1001,DIAG433163,Deficiency of macronutrients,2013-04-26,1.0
+1001,DIAG433163,Deficiency of macronutrients,2013-05-26,1.0
+1001,DIAG435517,Acidosis,2012-07-25,1.0
+1001,DIAG441818,Hemangioma,2012-07-25,1.0
+1001,LAB3023103,Potassium [Moles/volume] in Serum or Plasma,2009-08-17,3.6
+1001,LAB3019550,Sodium [Moles/volume] in Serum or Plasma,2009-08-18,140.0
+1001,LAB3016723,Creatinine [Mass/volume] in Serum or Plasma,2008-12-05,0.5
+1001,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2012-07-10,7.0
+1001,LAB3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,2012-07-10,15.0
+1001,LAB3004501,Glucose [Mass/volume] in Serum or Plasma,2012-07-10,82.0
+1001,LAB3000963,Hemoglobin [Mass/volume] in Blood,2000-06-03,13.3
+1001,LAB3026361,Erythrocytes [#/volume] in Blood,2000-06-05,4.45
+1001,LAB3010813,Leukocytes [#/volume] in Blood,2012-07-10,4.2
+1001,LAB3003785,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma,2012-07-10,4.5
+1001,LAB3024561,Albumin [Mass/volume] in Serum or Plasma,2012-07-10,3.8
+1001,LAB3004905,Lipase [Enzymatic activity/volume] in Serum or Plasma,2012-07-10,22.0
+1001,LAB3004905,Lipase [Enzymatic activity/volume] in Serum or Plasma,2012-07-12,20.0
+1001,LAB3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma,2015-02-08,1.4
+1001,LAB3024128,Bilirubin.total [Mass/volume] in Serum or Plasma,2015-02-09,2.4
+1001,LAB3016771,Amylase [Enzymatic activity/volume] in Serum or Plasma,2012-07-10,34.0
+1001,LAB3016771,Amylase [Enzymatic activity/volume] in Serum or Plasma,2012-07-10,30.0
