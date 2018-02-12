@@ -1,2 +1,2 @@
 # CSE6250
-back up for CSE6250 at Gatech Tech
+back up for CSE6250 at Georgia Tech
